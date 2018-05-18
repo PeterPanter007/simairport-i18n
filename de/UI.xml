@@ -37,9 +37,9 @@ Vielen Dank für deine Unterstützung und danke, dass du uns geholfen hast, SimA
                     <mode1>Karrieremodus</mode1>
                     <tt>
                         <desc0>Wähle deinen Spielstil</desc0>
-                        <desc1>Nutze dein Können um Profit zu machen!</desc1>
+                        <desc1>Nutze dein Können, um Profit zu machen!</desc1>
                         <desc2>Geld kann nicht ausgegeben werden solange du einen negativen Kontostand hast</desc2>
-                        <desc3>Bankrott und Spielende wenn du 48 Stunden lang einen negativen Kontostand hast</desc3>
+                        <desc3>Bankrott und Spielende, wenn du 48 Stunden lang einen negativen Kontostand hast</desc3>
                         <desc4>Du musst auf einer mittelgroßen Karte beginnen</desc4>
                         <desc5>Unbegrenzte Mittel, kein Bankrott!</desc5>
                         <desc6>Ein-/Ausgaben werden immer noch verfolgt!</desc6>
@@ -50,10 +50,10 @@ Vielen Dank für deine Unterstützung und danke, dass du uns geholfen hast, SimA
                 <size>
                     <title>Kartengröße</title>
                     <tt0>
-                        <desc0>Wenn du im Karrieremodus spielst beginnst du auf einer {0} Karte in den Dimensionen ({1}x{2}). Du kannst expandieren und mehr Land kaufen um dem Platzbedarf deines wachsenden Flughafens gerecht zu werden!</desc0>
+                        <desc0>Wenn du im Karrieremodus spielst beginnst du auf einer {0} Karte in den Dimensionen ({1}x{2}). Du kannst expandieren und mehr Land kaufen, um dem Platzbedarf deines wachsenden Flughafens gerecht zu werden!</desc0>
                     </tt0>
                     <tt1>
-                        <desc0>Wenn du im Sandkastenmodus spielst kannst du die Größe der Karte wählen mit der du starten möchtest. Du kannst später zusätzliches Land kaufen um zu expandieren, dies ändert nur die Startgröße der Karte. Bitte beachte dass die Grundsteuer bei größeren Landstücken etwas höher ist!</desc0>
+                        <desc0>Wenn du im Sandkastenmodus spielst kannst du die Größe der Karte wählen mit der du starten möchtest. Du kannst später zusätzliches Land kaufen, um zu expandieren, dies ändert nur die Startgröße der Karte. Bitte beachte dass die Grundsteuer bei größeren Landstücken etwas höher ist!</desc0>
                     </tt1>
                 </size>
                 <difficulty>
@@ -65,7 +65,7 @@ Vielen Dank für deine Unterstützung und danke, dass du uns geholfen hast, SimA
                 <blank>
                     <title>Fange ganz von vorne an</title>
                     <tt>
-                        <desc>Start auf einem unbebauten Grundstück was mehr Zeit beansprucht bis dein Flughafen gebaut ist &amp; in Betrieb geht. Wenn du ein Neuling bist empfehlen wir dir dies zu ignorieren damit du gleich anfangen kannst SimAirport zu spielen indem du unser eingebautes Flughafen-Standard-Layout verwendest.</desc>
+                        <desc>Start auf einem unbebauten Grundstück, was mehr Zeit beansprucht bis dein Flughafen gebaut ist &amp; in Betrieb geht. Wenn du ein Neuling bist empfehlen wir dir dies zu ignorieren, damit du gleich anfangen kannst SimAirport zu spielen, indem du unser eingebautes Flughafen-Standard-Layout verwendest.</desc>
                     </tt>
                 </blank>
             </new>
@@ -164,7 +164,7 @@ Dadurch wird der ausgewählte Spielstand dauerhaft von deinem Computer entfernt.
                     <tt>
                         <title>{0} {1} Angebote </title>
                         <desc1>Gesamt-Unterzeichnungsbonus: {0}</desc1>
-                        <desc2> Erhalte sofort den Unterzeichnungsbonus und ermöglicht dass diese Flüge zu deinem Hauptflugplan hinzugefügt werden. </desc2>
+                        <desc2> Erhalte sofort den Unterzeichnungsbonus und ermöglicht, dass diese Flüge zu deinem Hauptflugplan hinzugefügt werden. </desc2>
                         <desc3>{0} Angebote sind GESPERRT </desc3>
                         <desc4> Dein Flughafen erfüllt noch nicht die Anforderungen für die Flugzeugtypen.</desc4>
                         <desc5> Du musst einen FVK Tower bauen um mehr als 10 Flüge pro Tag aufnehmen zu können. </desc5>
@@ -225,7 +225,7 @@ Dadurch wird der ausgewählte Spielstand dauerhaft von deinem Computer entfernt.
                 <comfort>Komfort</comfort>
                 <ops>Ops</ops>
                 <structures>Strukturen</structures>
-                <runwayupgrades>Star-/Landebahn-Upgrades</runwayupgrades>
+                <runwayupgrades>Start-/Landebahn-Upgrades</runwayupgrades>
                 <gateupgrades>Gate-Upgrades</gateupgrades>
                 <searchresults>Suche...</searchresults>
                 <allresults>Alle Ergebnisse</allresults>
@@ -268,12 +268,12 @@ Dadurch wird der ausgewählte Spielstand dauerhaft von deinem Computer entfernt.
             <tabs>
                 <pricing>
                     <title>Kommerzielle Preisgestaltung</title>
-                    <intro>Lege die Preise fest die die Fluggesellschaften an dich zahlen müssen. Sei vorsichtig - einige Fluggesellschaften sind kostenempfindlicher als andere Fluggesellschaften; Fluggesellschaften können sich entschließen nicht mit dir zusammenzuarbeiten wenn deine Preise zu hoch sind oder deine Flughafendienstleistungen die Kosten nicht rechtfertigen können!</intro>
-                    <rwyusage>Start-/Landebahn-Nutzungsgebühr Wie viel eine Fluggesellschaft bezahlen muss um deine Runways zu verwenden (Pro Nutzung).</rwyusage>
-                    <terminalusage>Terminal-Nutzunggebühr Wie viel eine Fluggesellschaften bezahlen muss um dein Terminal zu verwenden (Pro Passagier).</terminalusage>
+                    <intro>Lege die Preise fest, die die Fluggesellschaften an dich zahlen müssen. Sei vorsichtig - einige Fluggesellschaften sind kostenempfindlicher als andere Fluggesellschaften; Fluggesellschaften können sich entschließen nicht mit dir zusammenzuarbeiten, wenn deine Preise zu hoch sind oder deine Flughafendienstleistungen die Kosten nicht rechtfertigen können!</intro>
+                    <rwyusage>Start-/Landebahn-Nutzungsgebühr Wie viel eine Fluggesellschaft bezahlen muss, um deine Runways zu verwenden (Pro Nutzung).</rwyusage>
+                    <terminalusage>Terminal-Nutzunggebühr Wie viel eine Fluggesellschaften bezahlen muss, um dein Terminal zu verwenden (Pro Passagier).</terminalusage>
                     <btnsave>Neue Preise speichern</btnsave>
                     <btnsaveerror>Vor kurzem bearbeitet. Du musst 12 Stunden warten bevor du weitere Änderungen vornehmen kannst!</btnsaveerror>
-                    <btnsavewarning>Steigende Preise können dazu führen dass Fluggesellschaften weniger an deinem Flughafen interessiert sind. Sie können sogar ihren Vertrag mit dir beenden was dich Geld kostet!! Hinweis: Du darfst die Preise nur einmal alle 12 Stunden ändern!</btnsavewarning>
+                    <btnsavewarning>Steigende Preise können dazu führen, dass Fluggesellschaften weniger an deinem Flughafen interessiert sind. Sie können sogar ihren Vertrag mit dir beenden was dich Geld kostet!! Hinweis: Du darfst die Preise nur einmal alle 12 Stunden ändern!</btnsavewarning>
                 </pricing>
                 <transport>
                     <title>Transport &amp; Lieferung</title>
@@ -313,7 +313,7 @@ Dadurch wird der ausgewählte Spielstand dauerhaft von deinem Computer entfernt.
                     <restrictions>Start-/Landebahnbeschränkungen</restrictions>
                     <restriction_arrival>Zulassen oder Ablehnen von Ankünften (Landungen) für diese Start-/Landebahn</restriction_arrival>
                     <restriction_departure>Zulassen oder Ablehnen von Abflügen (Starts) für diese Start-/Landebahn</restriction_departure>
-                    <restriction_common>Sei vorsichtig - Flüge werden storniert wenn sie keine verfügbare Start-/Landebahn haben die Zugang zu ihrem Gate bieten!</restriction_common>
+                    <restriction_common>Sei vorsichtig - Flüge werden storniert, wenn sie keine verfügbare Start-/Landebahn haben, die Zugang zu ihrem Gate bieten!</restriction_common>
                 </runways>
                 <fuel>
                     <title>Betankungsdienste</title>
