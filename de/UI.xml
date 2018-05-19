@@ -567,16 +567,16 @@ Dadurch wird der ausgewählte Spielstand dauerhaft von deinem Computer entfernt.
                 <desc0>Du darfst Mods nur aktualisieren oder veröffentlichen wenn du der ursprüngliche Autor/Besitzer bist.</desc0>
             </tt0>
             <tt1>
-                <desc0>Diese Mod benötigt weitere Mods (benutzerdefinierte Flugzeuge) um richtig zu funktionieren. Diese anderen benötigten Mods MÜSSEN zu Steam hochgeladen werden bevor diese Mod hochgeladen werden kann.</desc0>
-                <desc1>Diese Mod benötigt benutzerdefinierte Bilder bevor sie zum Steam Workshop hochgeladen werden kann.</desc1>
-                <desc2>Mods können nur zum Steam Workshop hochgeladen werden wenn sie benutzerdefinierte Bilder beinhalten.</desc2>
+                <desc0>Diese Mod benötigt weitere Mods (benutzerdefinierte Flugzeuge), um richtig zu funktionieren. Diese anderen benötigten Mods MÜSSEN zu Steam hochgeladen werden, bevor diese Mod hochgeladen werden kann.</desc0>
+                <desc1>Diese Mod benötigt benutzerdefinierte Bilder, bevor sie zum Steam Workshop hochgeladen werden kann.</desc1>
+                <desc2>Mods können nur zum Steam Workshop hochgeladen werden, wenn sie benutzerdefinierte Bilder beinhalten.</desc2>
             </tt1>
             <tt2>
                 <title>Demo-Spawn nicht möglich</title>
                 <desc0>Diese Funktion benötigt das Benutzen der "Mod-Test-Karte" (siehe linkes Bedienungsfeld zum Laden). Die Demo muss auf einem geeigneten &amp; funktionsfähigen Gate in einem Flughafen ohne Passagiere oder andere Flugzeuge stattfinden.</desc0>
             </tt2>
             <tt3>Erstelle eine neue Flugzeug-Mod, die dir erlaubt eine vollkommen neue Art Flugzeug zu erschaffen.  Dieses Flugzeug kannst du dann in einer deiner benutzerdefinierten Flotten benutzen &amp; es im Steam Workshop teilen.</tt3>
-            <tt4>Aktualisiere die Liste der verfügbaren Flugzeug-Mods die auf deinem Computer gefunden wurden.</tt4>
+            <tt4>Aktualisiere die Liste der verfügbaren Flugzeug-Mods, die auf deinem Computer gefunden wurden.</tt4>
             <tt5>Öffnet den Mod-Ordner im Datei-Explorer deines Computers.</tt5>
             <tt6>Erstelle eine neue Airline-Mod mit den vorgegebenen Mustervorlagen;  dann kannst du die Einstellungen und Grafiken mit anderen Programmen ändern.</tt6>
             <tt7>Aktualisiere die obere Liste der verfügbaren Airline-Mods, die auf deinem Computer gefunden wurden.</tt7>
@@ -646,12 +646,12 @@ Dadurch wird der ausgewählte Spielstand dauerhaft von deinem Computer entfernt.
         </overlay_PA>
         <overlay_paxAI>
             <title>Pax AI-Entscheidungen</title>
-            <description>Schau dir an was die Pax AI vor hat indem du diese Ansicht aktivierst &amp; dann auf einzelne Passagiere klickst! Hinweis: es handelt sich um ein Fehlerbehebungswerkzeug das wir für den Moment öffentlich zugänglich machen um zu testen ob es uns (und dir) helfen kann, AI-/Auswahl-Fehler und Gleichgewichtsstörungen zu beseitigen. Bitte entschuldige etwaige Unvollkommenheiten!</description>
+            <description>Schau dir an was die Pax AI vor hat indem du diese Ansicht aktivierst &amp; dann auf einzelne Passagiere klickst! Hinweis: es handelt sich um ein Fehlerbehebungswerkzeug das wir für den Moment öffentlich zugänglich machen, um zu testen ob es uns (und dir) helfen kann, AI-/Auswahl-Fehler und Gleichgewichtsstörungen zu beseitigen. Bitte entschuldige etwaige Unvollkommenheiten!</description>
         </overlay_paxAI>
         <bank>
             <title>Kontostand</title>
             <desc1>Tägliche Geldfluss-Schätzung</desc1>
-            <desc2>Flugbetriebseinkommen</desc2>
+            <desc2>Flugbetrieb</desc2>
             <desc3>Personalkosten</desc3>
             <desc4>Ausgehend davon, dass alle Flüge vollbesetzt sind und es zu keinen Stornierungen, Verspätungen oder verpassten Flügen kommt. </desc4>
             <desc5>Aktuelle Transaktionen</desc5>
@@ -680,7 +680,7 @@ Dadurch wird der ausgewählte Spielstand dauerhaft von deinem Computer entfernt.
             <wind1>Windbedingungen verschlechtern sich</wind1>
             <rain0>Niederschlag nimmt zu</rain0>
             <rain1>Niederschlag nimmt ab</rain1>
-            <warning>Alle Start-/Landebahnen sind derzeit wetterbedingt inaktiv. Ziehe in Betracht deine Start-/Landebahnen zu aktualisieren um die maximal zulässigen Seitenwindtoleranzen zu erhöhen wenn du bereits über vertikale und horizontale Start-/Landebahnen verfügst.</warning>
+            <warning>Alle Start-/Landebahnen sind derzeit wetterbedingt inaktiv. Ziehe in Betracht deine Start-/Landebahnen zu aktualisieren um die maximal zulässigen Seitenwindtoleranzen zu erhöhen, wenn du bereits über vertikale und horizontale Start-/Landebahnen verfügst.</warning>
         </weather>
     </navbtntooltip>
     <strings>
@@ -936,7 +936,7 @@ Dadurch wird der ausgewählte Spielstand dauerhaft von deinem Computer entfernt.
             <ConstructionWarning>Ein oder mehrere Arbeiter konnten diese Position zuletzt nicht erreichen.</ConstructionWarning>
             <ZoneCapacity>Die Zonenkapazität kann durch das Vergrößern des Zonenbereichs oder durch bestimmte 'Lager'-Objekte zur Steigerung der erlaubten Dichte gesteigert werden .</ZoneCapacity>
             <CountAssignments>{0} zugeordnet</CountAssignments>
-            <LateDepartureFCWarning>Hinweis: Warten auf das Einsteigen der Flugbesatzung. Aktivieren Sie "Passagiere markieren" um zu sehen warum.</LateDepartureFCWarning>
+            <LateDepartureFCWarning>Hinweis: Warten auf das Einsteigen der Flugbesatzung. Aktivieren Sie "Passagiere markieren", um zu sehen warum.</LateDepartureFCWarning>
         </tooltip>
         <functionality>
             <ReqFunctionalZone>Muss in einem funktionierenden {0}</ReqFunctionalZone>
@@ -944,10 +944,10 @@ Dadurch wird der ausgewählte Spielstand dauerhaft von deinem Computer entfernt.
             <ReqZoneRestock>Muss in einer Zone platziert sein, damit es aufgefüllt werden kann.</ReqZoneRestock>
             <ReqAssignedGAD>Mindestens ein zugewiesener Check-In-Schalter erforderlich.</ReqAssignedGAD>
             <ReqTaxiwayCount> {0}x angeschlossene Rollweg an der Vorderseite erforderlich.</ReqTaxiwayCount>
-            <ReqTaxiwayPath>Eine Rollweg zu mindestens einer Start-/Landebahn erforderlich.</ReqTaxiwayPath>
-            <ReqTaxiwayPathArrival>Eine Rollweg zu mindestens einer Start-/Landebahn, auf der Landungen vorgenommen werden dürfen.</ReqTaxiwayPathArrival>
-            <ReqTaxiwayPathDeparture>Eine Rollweg zu mindestens einer Start-/Landebahn, auf der Abflüge vorgenommen werden dürfen.</ReqTaxiwayPathDeparture>
-            <ReqTerminalDoor>Ein Tür zum Terminal erforderlich.</ReqTerminalDoor>
+            <ReqTaxiwayPath>Ein Rollweg zu mindestens einer Start-/Landebahn erforderlich.</ReqTaxiwayPath>
+            <ReqTaxiwayPathArrival>Ein Rollweg zu mindestens einer Start-/Landebahn, auf der Landungen vorgenommen werden dürfen.</ReqTaxiwayPathArrival>
+            <ReqTaxiwayPathDeparture>Ein Rollweg zu mindestens einer Start-/Landebahn, auf der Abflüge vorgenommen werden dürfen.</ReqTaxiwayPathDeparture>
+            <ReqTerminalDoor>Eine Tür zum Terminal erforderlich.</ReqTerminalDoor>
             <ReqAssignedQueueType>Eine oder mehrere zugewiesene {0} müssen eine eigene Reihe für {1} aufweisen.</ReqAssignedQueueType>
             <ReqSecurityQueueType>{0} haben keine eigene Reihe an einem Sicherheitscheck, der zu diesem Gate führt.</ReqSecurityQueueType>
             <ReqSecUsage>Nutzungspositionen muss in {0} oder einem nicht sicheren Bereich sein.</ReqSecUsage>
@@ -967,7 +967,7 @@ Dadurch wird der ausgewählte Spielstand dauerhaft von deinem Computer entfernt.
             <ReqFuelNetworkDepot>Mit der Treibstoffleitung verbunden, allerdings nicht mit dem Treibstoffdepot</ReqFuelNetworkDepot>
             <ReqAdjacentRoad>Benötigt eine nahe Straße oder Rollweg.</ReqAdjacentRoad>
             <ReqProximityRoad>Muss an eine Straße angeschlossen sein, die Spawn- &amp; Despawn-Punkte erreichen kann.</ReqProximityRoad>
-            <ReqProximityTaxiway>Benötigt mindestens eine Rollweg, die an beiden Enden verbunden ist.</ReqProximityTaxiway>
+            <ReqProximityTaxiway>Benötigt mindestens einen Rollweg, die an beiden Enden verbunden ist.</ReqProximityTaxiway>
             <FuelTankProximityNoSegment>Tank ist zu weit weg von einer Straße/einem Rollweg, um direkt für Fahrzeuge zugänglich zu sein.</FuelTankProximityNoSegment>
             <FuelTankProximityWithSegment>Tank ist zu weit weg von einer Straße/einem Rollweg und kann nur indirekt von Fahrzeugen über andere Objekte an derselben unterirdischen Treibstoffleitung erreicht werden.</FuelTankProximityWithSegment>
             <ReqConstructionComplete>Bau muss abgeschlossen sein.</ReqConstructionComplete>
@@ -1059,20 +1059,20 @@ Dadurch wird der ausgewählte Spielstand dauerhaft von deinem Computer entfernt.
             <Limit>Limit {0}</Limit>
             <NoDestroy>Kann nicht zerstört werden</NoDestroy>
         </NotableProperties>
-        <Delete>Löschen</Delete>
-        <Close>Schließen</Close>
-        <Assign>Zuordnen</Assign>
+        <Delete>LLöschen</Delete>
+        <Close>ScSchließen</Close>
+        <Assign>ZZuordnen</Assign>
         <Unassign>Nicht zuordnen</Unassign>
         <applyall>Auf alle anwenden {0}</applyall>
         <keyboard>Tastatur</keyboard>
         <inverted>Umgekehrt</inverted>
         <standard>Standard</standard>
-        <custom>Benutzerdefiniert</custom>
-        <passed>BESTANDEN</passed>
-        <failed>FEHLGESCHLAGEN</failed>
+        <custom>BBenutzerdefiniert</custom>
+        <passed>BBESTANDEN</passed>
+        <failed>FFEHLGESCHLAGEN</failed>
         <foodinventory>Lebensmittel-Inventar</foodinventory>
         <foodinventory2>{0} Objekte zur Wiederauffüllung</foodinventory2>
-        <stuck>Steckt fest!</stuck>
+        <stuck>Ststeckt fest!</stuck>
         <supplies>Baustoffe</supplies>
         <AtLeastOne>Mindestens ein</AtLeastOne>
         <time>
@@ -1145,11 +1145,11 @@ Dadurch wird der ausgewählte Spielstand dauerhaft von deinem Computer entfernt.
         </Restroom>
         <Security>
             <name>Sicherheit</name>
-            <description>Sicherheitszonen ermöglichen es dir deine Passagiere zu kontrollieren und deinen Flughafen sicher zu halten was deine Passagiere schätzen werden. Und gelegentlich kannst du ihnen sogar ein kleines Extra "Abtasten" zukommen lassen. </description>
+            <description>Sicherheitszonen ermöglichen es dir deine Passagiere zu kontrollieren und deinen Flughafen sicher zu halten, was deine Passagiere schätzen werden. Und gelegentlich kannst du ihnen sogar ein kleines Extra "Abtasten" zukommen lassen. </description>
         </Security>
         <Garbage>
             <name>Abfall</name>
-            <description>Die Hausmeister bringen den ganzen Müll deines Flughafens hier her. Der Müllwagen kommt auch hierher um ihn aufzuladen und mitzunehmen. Eine größere Zone nimmt mehr Müll auf und die Zoneneffizienz kann durch das Platzieren von Müllcontainern in der Zone weiter erhöht werden.</description>
+            <description>Die Hausmeister bringen den ganzen Müll deines Flughafens hier her. Der Müllwagen kommt auch hierher, um ihn aufzuladen und mitzunehmen. Eine größere Zone nimmt mehr Müll auf und die Zoneneffizienz kann durch das Platzieren von Müllcontainern in der Zone weiter erhöht werden.</description>
         </Garbage>
         <Deliveries>
             <name>Anlieferungen</name>
@@ -1173,7 +1173,7 @@ Dadurch wird der ausgewählte Spielstand dauerhaft von deinem Computer entfernt.
         </BaggageClaim>
         <Cafe>
             <name>Cafe</name>
-            <description>In dieser Zone kannst du einen Verkaufsraum wie z. B. einen Einkaufsbereich oder einen Food Service-Bereich einrichten. Passagiere sind glücklicher wenn sie ihr Geld ausgeben und du bist es auch!</description>
+            <description>In dieser Zone kannst du einen Verkaufsraum wie z. B. einen Einkaufsbereich oder einen Food Service-Bereich einrichten. Passagiere sind glücklicher, wenn sie ihr Geld ausgeben und du bist es auch!</description>
         </Cafe>
         <Office>
             <name>Büro</name>
@@ -1181,7 +1181,7 @@ Dadurch wird der ausgewählte Spielstand dauerhaft von deinem Computer entfernt.
         </Office>
         <Kitchen>
             <name>Küche</name>
-            <description>Alle Speisen die in deinen Restaurants, Cafés und Bars serviert werden müssen in einer Küche zubereitet und gekocht werden.</description>
+            <description>Alle Speisen, die in deinen Restaurants, Cafés und Bars serviert werden, müssen in einer Küche zubereitet und gekocht werden.</description>
         </Kitchen>
         <Storage>
             <name>Lager</name>
@@ -1189,11 +1189,11 @@ Dadurch wird der ausgewählte Spielstand dauerhaft von deinem Computer entfernt.
         </Storage>
         <Male_Restroom>
             <name>Herrentoilette</name>
-            <description>Passagiere werden nicht sehr glücklich sein wenn sie keinen einfachen Zugang zu Toiletten haben. Du nutzt diese Zone um die Toiletten für deine Passagiere zu bauen.</description>
+            <description>Passagiere werden nicht sehr glücklich sein, wenn sie keinen einfachen Zugang zu Toiletten haben. Du nutzt diese Zone, um die Toiletten für deine Passagiere zu bauen.</description>
         </Male_Restroom>
         <Female_Restroom>
             <name>Damentoilette</name>
-            <description>Passagiere werden nicht sehr glücklich sein wenn sie keinen einfachen Zugang zu Toiletten haben. Du nutzt diese Zone um die Toiletten für deine Passagiere zu bauen.</description>
+            <description>Passagiere werden nicht sehr glücklich sein, wenn sie keinen einfachen Zugang zu Toiletten haben. Du nutzt diese Zone, um die Toiletten für deine Passagiere zu bauen.</description>
         </Female_Restroom>
         <Electrical>
             <name>Elektro</name>
@@ -1201,7 +1201,7 @@ Dadurch wird der ausgewählte Spielstand dauerhaft von deinem Computer entfernt.
         </Electrical>
         <First_Class_Lounge>
             <name>Erste-Klasse-Lounge</name>
-            <description>Füge eine Lounge für Passagiere der ersten Klasse hinzu um ihren Bedürfnissen und Wünschen besser gerecht zu werden.</description>
+            <description>Füge eine Lounge für Passagiere der ersten Klasse hinzu, um ihren Bedürfnissen und Wünschen besser gerecht zu werden.</description>
         </First_Class_Lounge>
         <Flight_Crew_Lounge>
             <name>Flug-Crew-Lounge</name>
@@ -1351,7 +1351,7 @@ Dadurch wird der ausgewählte Spielstand dauerhaft von deinem Computer entfernt.
         </TaxiwayDirection>
         <AddQueue>
             <name>Warteschlange erweitern</name>
-            <description>Klicke &amp; ziehe um eine definierte Warteschlange zu erstellen oder zu erweitern die Objekten zugewiesen werden kann um ihren Durchsatz zu verbessern.</description>
+            <description>Klicke &amp; ziehe um eine definierte Warteschlange zu erstellen oder zu erweitern, die Objekten zugewiesen werden kann, um ihren Durchsatz zu verbessern.</description>
         </AddQueue>
         <RemoveQueue>
             <name>Warteschlange schrumpfen</name>
@@ -1359,21 +1359,21 @@ Dadurch wird der ausgewählte Spielstand dauerhaft von deinem Computer entfernt.
         </RemoveQueue>
         <VisualizeQueue>
             <name>Warteschlangen visualisieren</name>
-            <description>Ein Visualisierungstool das alle Warteschlangen und Zuordnungen in deinem Flughafen auf einmal anzeigt.</description>
+            <description>Ein Visualisierungstool, das alle Warteschlangen und Zuordnungen in deinem Flughafen auf einmal anzeigt.</description>
         </VisualizeQueue>
         <AreaSell>
             <name>Bereichsverkauf</name>
-            <description>Markiere einen Bereich von Kisten um sie auf einmal zu verkaufen.</description>
+            <description>Markiere einen Bereich von Kiste,n um sie auf einmal zu verkaufen.</description>
             <tt>Verkaufen für</tt>
         </AreaSell>
         <AsphaltRunway>
             <name>Asphalt-Rollweg</name>
-            <description>Klicke &amp; ziehe um eine bestehende Start-/Landebahn zu erstellen (oder zu erweitern). Beachte hierbei dass das Erweitern oder Überschneiden einer bestehenden Bahn die reparatur der gesamten Bahn erfordert.</description>
+            <description>Klicke &amp; ziehe um eine bestehende Start-/Landebahn zu erstellen (oder zu erweitern). Beachte hierbei, dass das Erweitern oder Überschneiden einer bestehenden Bahn die reparatur der gesamten Bahn erfordert.</description>
             <tt>Eignet sich für</tt>
         </AsphaltRunway>
         <ConcreteRunway>
             <name>Beton-Rollweg</name>
-            <description>Klicke &amp; ziehe um eine bestehende Start-/Landebahn zu erstellen (oder zu erweitern). Beachte hierbei dass das Erweitern oder Überschneiden einer bestehenden Bahn die reparatur der gesamten Bahn erfordert.</description>
+            <description>Klicke &amp; ziehe um eine bestehende Start-/Landebahn zu erstellen (oder zu erweitern). Beachte hierbei, dass das Erweitern oder Überschneiden einer bestehenden Bahn die reparatur der gesamten Bahn erfordert.</description>
         </ConcreteRunway>
         <Clear>
             <name>Löschen</name>
@@ -1405,7 +1405,7 @@ Dadurch wird der ausgewählte Spielstand dauerhaft von deinem Computer entfernt.
         </Ramp>
         <Road>
             <name>Straße</name>
-            <description>Leite Fahrzeuge mit 2x2-Abschnitten dorthin wo sie hin müssen. Verwende die R-Taste zum Drehen.</description>
+            <description>Leite Fahrzeuge mit 2x2-Abschnitten dorthin, wo sie hin müssen. Verwende die R-Taste zum Drehen.</description>
         </Road>
         <Sidewalk>
             <name />
@@ -1417,11 +1417,11 @@ Dadurch wird der ausgewählte Spielstand dauerhaft von deinem Computer entfernt.
         </Taxiway>
         <Wall>
             <name />
-            <description>Eine langlebige Betonwand die perfekt für die Sicherung und Trennung von den Innenbereichen deines Flughafens ist.</description>
+            <description>Eine langlebige Betonwand, die perfekt für die Sicherung und Trennung von den Innenbereichen deines Flughafens ist.</description>
         </Wall>
         <Window>
             <name />
-            <description>Biete deinen Passagieren frische Luft oder eine Aussicht während die Wand gleichzeitig ähnlichen Zwecken dienen wie eine gewöhnliche Wand bei der Aufteilung von Räumen.</description>
+            <description>Biete deinen Passagieren frische Luft oder eine Aussicht während die Wand gleichzeitig ähnlichen Zwecken dienen, wie eine gewöhnliche Wand bei der Aufteilung von Räumen.</description>
         </Window>
         <DemolishUtility>
             <name>Versorgungseinrichtungen abreißen</name>
@@ -1447,7 +1447,7 @@ Dadurch wird der ausgewählte Spielstand dauerhaft von deinem Computer entfernt.
             <d5>Verbindet {0} mit {1} oder {2} mit {3}</d5>
             <d6>Korrekte Hub-zu-Hub-Verbindungen sind {0}</d6>
             <d7>Fließt in beide Richtungen über 1 Verbindung</d7>
-            <d8>Probleme? Bewege die Maus über ein Depot oder ein Tor um hilfreiche Informationen zu erhalten. In der unterirdischen Ansicht klickst du auf ein unterirdisches Objekt und die verbundenen Objekte ändern ihre Farbe.</d8>
+            <d8>Probleme? Bewege die Maus über ein Depot oder ein Tor, um hilfreiche Informationen zu erhalten. In der unterirdischen Ansicht klickst du auf ein unterirdisches Objekt und die verbundenen Objekte ändern ihre Farbe.</d8>
         </Conveyor>
         <ClearUtilities>
             <name>Löschen Sie Dienstprogramme</name>
@@ -1499,12 +1499,12 @@ Dadurch wird der ausgewählte Spielstand dauerhaft von deinem Computer entfernt.
         <StandbyGates>
             <name>Ausweich-Gates</name>
             <row0>Fähigkeit, Ausweich-Gates festzulegen.</row0>
-            <description>Ausweich-Gates können verwendet werden um den Flughafenbetrieb zu verbessern indem die Anzahl annullierter oder verspäteter Flüge reduziert wird.</description>
+            <description>Ausweich-Gates können verwendet werden, um den Flughafenbetrieb zu verbessern, indem die Anzahl annullierter oder verspäteter Flüge reduziert wird.</description>
         </StandbyGates>
         <Lightrail>
             <name>Stadtbahn-Transit</name>
             <row0>Ermöglicht das Platzieren einer LRT-Plattform auf der Karte.</row0>
-            <description>Straßenbahnen reduzieren Verkehrsstaus indem sie den Passagieren eine bequeme Möglichkeit bieten an deinem Flughafen anzukommen und abzureisen.</description>
+            <description>Straßenbahnen reduzieren Verkehrsstaus, indem sie den Passagieren eine bequeme Möglichkeit bieten an deinem Flughafen anzukommen und abzureisen.</description>
         </Lightrail>
         <LandExpansion>
             <name>Grundstück Erweiterung</name>
@@ -1516,7 +1516,7 @@ Dadurch wird der ausgewählte Spielstand dauerhaft von deinem Computer entfernt.
         </Operations2>
         <AviationOps>
             <name>Luftfahrt-Ops</name>
-            <row0>Ermöglicht es dir Start- und Landebahnen so zu konfigurieren dass nur Abflüge oder Ankünfte akzeptiert werden..</row0>
+            <row0>Ermöglicht es dir Start- und Landebahnen so zu konfigurieren, dass nur Abflüge oder Ankünfte akzeptiert werden..</row0>
         </AviationOps>
         <Technology>
             <name>Technologie</name>
@@ -1528,7 +1528,7 @@ Dadurch wird der ausgewählte Spielstand dauerhaft von deinem Computer entfernt.
         </LongerTrains>
         <FuelPorts>
             <name>Treibstoff-Ports</name>
-            <row0>Ermöglicht die Erweiterung von Gates mit Treibstoffanschlüssen die Kerosin direkt dort abgeben können, wo es benötigt wird!</row0>
+            <row0>Ermöglicht die Erweiterung von Gates mit Treibstoffanschlüssen, die Kerosin direkt dort abgeben können, wo es benötigt wird!</row0>
         </FuelPorts>
         <AdvTicketing>
             <name>Erweitertes Ticketing</name>
@@ -1591,7 +1591,7 @@ Dadurch wird der ausgewählte Spielstand dauerhaft von deinem Computer entfernt.
         </tt1>
         <tt2>
             <title>WICHTIG - Speichern Sie Ihr Spiel!</title>
-            <desc>Während der Landerweiterung kann das Spiel abstürzen wenn "land_expansion.airport" geschrieben und neu geladen wird. Wir empfehlen dringend, das Spiel zu speichern, bevor Sie fortfahren.</desc>
+            <desc>Während der Landerweiterung kann das Spiel abstürzen, wenn "land_expansion.airport" geschrieben und neu geladen wird. Wir empfehlen dringend das Spiel zu speichern, bevor Sie fortfahren.</desc>
         </tt2>
     </land>
     <vending>
